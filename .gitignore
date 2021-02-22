@@ -1,4 +1,5 @@
 *.log
+*.hs_err
 .idea
 .metadata
 
